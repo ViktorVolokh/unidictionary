@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="Unidictionary.Android/Unidictionary.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Unidictionary.Browser/Unidictionary.Browser.csproj" />
+  <Project Path="Unidictionary.Desktop/Unidictionary.Desktop.csproj" />
+  <Project Path="Unidictionary.iOS/Unidictionary.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Unidictionary/Unidictionary.csproj" />
+</Solution>
